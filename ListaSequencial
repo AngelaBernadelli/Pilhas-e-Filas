@@ -61,17 +61,7 @@ lista.inserir(8)
 lista.inserir(7)
 lista.imprimir()
 lista.pesquisar(3)
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
+
+
+
+
